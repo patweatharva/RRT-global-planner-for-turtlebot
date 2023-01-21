@@ -1,6 +1,8 @@
 # RRT global planner
 This is a new global planner plugin for ROS that uses the Rapidly-Exploring Random Trees (RRT) algorithm to plan a path for the robot. The plugin is implemented in C++ and is designed to be used with the [navigation stack](http://wiki.ros.org/navigation) of ROS.
 
+
+
 ## Note
 The plugin was created and tested in the ROS noetic version and might not work in other distributions.
 
