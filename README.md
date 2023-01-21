@@ -71,3 +71,12 @@ All contributions are welcome! If you would like to contribute to the plugin, pl
 * R. Kuffner and J. LaValle, "RRT-star: An efficient approach to single-query path planning," in IEEE International Conference on Robotics and Automation, vol. 3, pp. 995-1001, 2010.
 
 
+## Contribution
+If you want to contribute to this project, you are most welcome. Just fork the repo and make a pull request.
+
+## License
+This project is licensed under the [MIT License](https://github.com/patweatharva/RRT-global-planner-for-turtlebot/blob/main/LICENSE) - see the LICENSE file for details.
+
+## Contact
+If you have any questions or feedback, please feel free to contact me at [patweatharva@gmail.com](patweatharva@gmail.com)
+
