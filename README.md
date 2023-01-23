@@ -49,7 +49,7 @@ The plugin can be used by running the move_base node, which is part of the navig
 ## Metrics
 The plugin provides the following metrics:
 
-* `pathLength : The length of the final path.
+* `pathLength` : The length of the final path.
 * `computationTime`: The time taken to compute the path.
 * `numNodes` : The number of nodes in the final tree.
 * `pathQuality` : The quality of the path (measured by a user-defined metric).
