@@ -18,7 +18,7 @@ The plugin was created and tested in the ROS noetic version and might not work i
 
 2. You can also [use the SLAM node](https://emanual.robotis.com/docs/en/platform/turtlebot3/slam_simulation/) for mapping your map 
 
-3. After this, clone this repository into the **'src'** directory of your catkin workspace.
+3. Next, clone this repository into the **'src'** directory of your catkin workspace.
 
 ```
 cd catkin_ws/src
